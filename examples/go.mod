@@ -1,4 +1,4 @@
-module github.com/pion/mediadevices/examples
+module github.com/n2d/mediadevices/examples
 
 go 1.14
 
